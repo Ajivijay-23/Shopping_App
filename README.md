@@ -1,1 +1,3 @@
-# Shopping_App
+This is the modified content using secondversion of repository....
+Code block goes here
+//function steps goes here
